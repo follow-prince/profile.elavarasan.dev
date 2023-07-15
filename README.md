@@ -14,7 +14,7 @@
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/follow-prince/profile.elavarasan.dev/total?color=4a2600&label=Total%20Downloads&style=flat-square)
 ![Website Status](https://img.shields.io/website?down_message=Down%20%26%20Offline&label=Website%20Status&up_message=Up%20%26%20Online&url=https%3A%2F%2Fprofile.elavarasan.dev)
 
-**[profile.elavarasan.dev](https://profile.prince.vercel.app)**
+**[profile.elavarasan.dev](https://profile-prince-vercel.app)**
 
 ✨ This is a single web page containing links to all my online profiles.
 
