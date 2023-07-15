@@ -73,12 +73,12 @@ class Social extends StatelessWidget {
               title: 'Pinterest',
               url: DataValues.pinterestURL,
             ),
-            CardProfile(
-              type: 'social',
-              widget: 'tiktok',
-              title: 'TikTok',
-              url: DataValues.tiktokURL,
-            ),
+            // CardProfile(
+            //   type: 'social',
+            //   widget: 'tiktok',
+            //   title: 'TikTok',
+            //   url: DataValues.tiktokURL,
+            // ),
             CardProfile(
               type: 'social',
               widget: 'skype',

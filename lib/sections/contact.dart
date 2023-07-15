@@ -123,7 +123,7 @@ class Contact extends StatelessWidget {
                 child: Tooltip(
                   message: DataValues.profileURL.toString(),
                   child: Text(
-                    'Visit profile.dileepabandara.dev to view my all profiles >>',
+                    'Visit profile-elavarasan.dev.vercel.app to view my all profiles >>',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize:

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AppThemeData {
   // Colors: Main Colors
-  static const Color primaryColor = Color.fromRGBO(1, 159, 171, 1.0);
+  static const Color primaryColor = Color.fromRGBO(4, 255, 33, 0.84);
   static const Color secondaryColor = Color.fromRGBO(25, 25, 25, 1.0);
 
   // Colors: Text
@@ -25,7 +25,7 @@ class AppThemeData {
   static const tooltip = Color.fromRGBO(33, 33, 33, 1.0);
 
   // Colors: Opacity
-  static const opacityPrimary = Color.fromRGBO(1, 159, 171, 0.5019607843137255);
+  static const opacityPrimary = Color.fromRGBO(56, 255, 6, 0.426);
   static const opacitySecondary = Color.fromRGBO(0, 0, 0, 0.5019607843137255);
 
   static ThemeData get themeData {

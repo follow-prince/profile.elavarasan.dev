@@ -37,12 +37,12 @@ class Developer extends StatelessWidget {
               title: 'Microsoft Learn Profile',
               url: DataValues.microsoftLearnUrl,
             ),
-            CardProfile(
-              type: 'developer',
-              widget: 'mlsa',
-              title: 'Microsoft Learn Student Ambassadors',
-              url: DataValues.mlsaUrl,
-            ),
+            // CardProfile(
+            //   type: 'developer',
+            //   widget: 'mlsa',
+            //   title: 'Microsoft Learn Student Ambassadors',
+            //   url: DataValues.mlsaUrl,
+            // ),
             CardProfile(
               type: 'devops',
               widget: 'github',

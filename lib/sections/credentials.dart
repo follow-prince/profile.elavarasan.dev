@@ -31,12 +31,12 @@ class Credentials extends StatelessWidget {
               title: 'Holopin',
               url: DataValues.holopinURL,
             ),
-            CardProfile(
-              type: 'credential',
-              widget: 'badgr',
-              title: 'Badgr',
-              url: DataValues.badgrURL,
-            ),
+            // CardProfile(
+            //   type: 'credential',
+            //   widget: 'badgr',
+            //   title: 'Badgr',
+            //   url: DataValues.badgrURL,
+            // ),
             CardProfile(
               type: 'credential',
               widget: 'credly',
