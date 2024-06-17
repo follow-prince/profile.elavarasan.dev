@@ -1,32 +1,18 @@
-# ELAVARASAN | Profile
+# Prince | Stack
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/follow-prince/profile.elavarasan.dev?color=d62936&label=Repo%20Size&style=flat-square)
 ![GitHub Code Size](https://img.shields.io/github/languages/code-size/follow-prince/profile.elavarasan.dev?color=e6a400&label=Code%20Size&style=flat-square)
-![GitHub License](https://img.shields.io/github/license/follow-prince/profile.elavarasan.dev?color=eb7005&label=License&style=flat-square)
-![Total Code Lines](https://img.shields.io/tokei/lines/github/follow-prince/profile.elavarasan.dev?color=805b3c&label=Total%20Code%20Lines&style=flat-square)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/follow-prince/profile.elavarasan.dev.dev?color=138a3d&label=Commit%20Activity&style=flat-square)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/follow-prince/profile.elavarasan.dev?color=1f77b4&label=Total%20Languages&style=flat-square)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/follow-prince/profile.elavarasan.dev?color=7f0c7f&label=Top%20Language&style=flat-square)
 ![GitHub Issues](https://img.shields.io/github/issues/follow-prince/profile.elavarasan.dev?color=098f76&label=GitHub%20Issues&style=flat-square)
 ![GitHub Pull Erequests](https://img.shields.io/github/issues-pr/follow-prince/profile.elavarasan.dev?color=2c324f&label=GitHub%20Pull%20Requests&style=flat-square)
-![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/follow-prince/profile.elavarasan.dev/main?color=0c22ed&label=CodeFactor%20Grade&style=flat-square)
-![GitHub Latest Release](https://img.shields.io/github/v/release/follow-prince/profile.elavarasan.dev?color=f5426f&label=Latest%20Release&style=flat-square)
 ![GitHub Total Downloads](https://img.shields.io/github/downloads/follow-prince/profile.elavarasan.dev/total?color=4a2600&label=Total%20Downloads&style=flat-square)
-![Website Status](https://img.shields.io/website?down_message=Down%20%26%20Offline&label=Website%20Status&up_message=Up%20%26%20Online&url=https%3A%2F%2Fprofile.elavarasan.dev)
+![Website Status](https://img.shields.io/website?down_message=Down%20%26%20Offline&label=Website%20Status&up_message=Up%20%26%20Online&url=https%3A%2F%2Fstack.elavarasan.me)
 
-**[profile.elavarasan.dev](https://profile-prince-vercel.app)**
+**[stack.elavarasan.me](https://stack.elavarasan.me)**
 
 ✨ This is a single web page containing links to all my online profiles.
 
-<!-- ## 🎬 Captured Moment
-
-![cover](https://user-images.githubusercontent.com/80202913/219569405-7bc2db40-5e3b-4ce2-b54a-4cc8ec3cb096.gif) -->
-
-<!-- ## 🌐 Website
-
-<https://dileepabandara.github.io/profile.dileepabandara.dev>  
-<https://gh.dileepabandara.dev/profile.dileepabandara.dev>  
-<https://profile.dileepabandara.dev> -->
 
 ## 🎉 Release Status
 
@@ -36,16 +22,12 @@ Initial release date - February 17, 2023
 
 ## 🍃 Branches
 
-Source Code
+#### Source Code
 
 - [main](https://github.com/follow-prince/profile.elavarasan.dev/tree/main) - Stable and latest version
   of the source code
-- [1.0.0](https://github.com/follow-prince/profile.elavarasan.dev/tree/1.0.0) - Stable 1.0.0 version of
-  the source code
-- [1.1.x](https://github.com/follow-prince/profile.elavarasan.dev/tree/1.1.x) - Unstable and
-  development versions of the source code
 
-Web Build
+#### Web Build
 
 - [web-build](https://github.com/follow-prince/profile.elavarasan.dev/tree/web-build) - Stable and
   latest version of the web build
@@ -98,19 +80,11 @@ Web Build
 
 Thanks to everyone who supported.
 
-<!-- ## 📜 License
-
-This project is licensed under the MIT License  
-MIT [elavarasan.dev](https://i-am-prince.vercel.app)  
-See the license file for more
-details [LICENSE.md](https://github.com/follow-prince/profile.elavarasan.dev/blob/main/LICENSE) -->
 
 ## 👨‍💻 Developed By
-
-Elavarasan  
-[© Prince(https://i-am-prince.vercel.app)]
+[@Elavarasan ](https://elavarasan.me)
 
 ## 💬 Contact
 
 Send me an email if you need to contact me to discuss anything.  
-Email - elavarasa.003@gmail.com
+Email - contact@elavarasan.me

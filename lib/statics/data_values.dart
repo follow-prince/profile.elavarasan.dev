@@ -1,27 +1,19 @@
 class DataValues {
   // About App
-  static const String appName = 'Elavarasan | Profile';
-  static const String appNameLong = 'profile-prince-dev.vercel.app';
+  static const String appName = 'Prince | Profile';
+  static const String appNameLong = 'www.elavarasan.me';
   static const String appDescription =
       'This is a single web page containing links to all my online profiles.';
   static const String appDescriptionLong =
-      'Hello there! My name is Elavarasan. I\'m a computing student,  developer, and community volunteer. '
-      'This is a single web page containing links to all my online profiles. Click on the buttons below to navigate to the desired section. '
-      'I\'d love to connect with you and have a friendly conversation to build a strong professional relationship or become friends! '
-      'So, feel free to connect with me via any of the platforms listed below, and I\'d love to invite you to visit these profiles.';
-  static const String appDeveloper = 'Elavarasan';
+      'Hi, I\'m Elavarasan, a computing student, developer, and volunteer. Connect with me through the links below!';
+  static const String appDeveloper = 'ELAVARASAN';
   static const String appPackage = 'dev.Elavarasan.profile';
   static const String appVersion = '5.1.0 - Beta';
   static const String appBuildNumber = '1';
 
   // Web domains
-  static Uri devURL = Uri.parse('https://prince-dev.vercel.app');
-  static Uri profileURL = Uri.parse('https://profile-prince-dev.vercel.app');
-  static Uri toolkitURL = Uri.parse('https://toolkit-prince-dev.vercel.app');
-  // static Uri volunteeringURL =
-  //     Uri.parse('https://volunteer.dileepabandara.dev');
-  static Uri blogURL = Uri.parse('https://i-am-prince.vercel.app');
-  static Uri techDiaryURL = Uri.parse('https://tecdiary.net/u/elavarasa.003');
+  static Uri devURL = Uri.parse('https://elavarasan.me');
+  static Uri profileURL = Uri.parse('https://elavarasan.me/about');
 
   // Developer
   static Uri googleLearnUrl = Uri.parse('https://g.dev/follow-prince');
@@ -93,15 +85,12 @@ class DataValues {
 
   // Digital Credentials
   static Uri holopinURL = Uri.parse('https://www.holopin.io/@followprince');
-  // static Uri badgrURL = Uri.parse(
-  //     ' ');
   static Uri credlyURL = Uri.parse('https://www.credly.com/users/elavarasan');
 
   // Blog
   static Uri hashnodeURL = Uri.parse('https://hashnode.com/@elavarasan');
   static Uri mediumURL = Uri.parse('https://medium.com/@elavarasa.003');
   static Uri devCommunityURL = Uri.parse('https://dev.to/follow_prince');
-  // static Uri bloggerURL = Uri.parse('????');
 
   // Donations
   static Uri kofiURL = Uri.parse('https://ko-fi.com/follow_prince');
@@ -111,14 +100,14 @@ class DataValues {
   // Contact
   static const String contactTitle = 'Contact';
   static const String contactDescription =
-      'Hey! I appreciate you looking at my public profile. Please feel free to ask me anything or to discuss anything with me. I\'m happy to chat with and meet new people. Regardless of the fact that I don\'t use social media much, you can find me there. So find me and get in touch with me. Send me an email if you need to discuss anything serious with me. I\'ll get back to you in 12 to 24 hours.';
+      'Hey! Feel free to ask or discuss anything. I\'m happy to meet new people. Though I\'m not very active on social media, you can find me there. For serious matters, email me, and I\'ll reply within 12 to 24 hours.';
   static const String contactBanner = 'Send me an email at';
-  static const String contactEmail = 'elavarasa.003@gmail.com';
+  static const String contactEmail = 'contact@elavarasan.me';
 
   // Footer
   static const String builtWith = 'Built with Flutter and GitHub Pages.';
   static Uri repoURL =
       Uri.parse('https://github.com/follow-prince/profile.elavarasan.dev');
   static const String copyright =
-      'Copyright © 2023 Elavarasan. All Rights Reserved.';
+      'Copyright © 2024 Elavarasan. All Rights Reserved.';
 }

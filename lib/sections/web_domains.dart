@@ -25,42 +25,16 @@ class WebDomains extends StatelessWidget {
                   'I use these domains for hosting my specific web-based sites, pages, and projects.',
             ),
             const SizedBox(height: 20.0),
-            CardProfile(
-              type: 'logo',
-              widget: 'logo',
-              title: 'Elavarasan | Main',
-              url: DataValues.devURL,
-            ),
-            CardProfile(
-              type: 'logo',
-              widget: 'logo',
-              title: 'Elavarasan | Profile',
-              url: DataValues.profileURL,
-            ),
-            CardProfile(
-              type: 'logo',
-              widget: 'logo',
-              title: 'Elavarasan | Toolkit',
-              url: DataValues.toolkitURL,
-            ),
-            // CardProfile(
-            //   type: 'logo',
-            //   widget: 'logo',
-            //   title: 'Elavarasan | Volunteering',
-            //   url: DataValues.volunteeringURL,
-            // ),
-            CardProfile(
-              type: 'logo',
-              widget: 'logo',
-              title: 'Elavarasan | Blog',
-              url: DataValues.blogURL,
-            ),
-            CardProfile(
-              type: 'logo',
-              widget: 'logo',
-              title: 'Elavarasan | TechDiary',
-              url: DataValues.techDiaryURL,
-            ),
+            ClipRRect(
+              borderRadius:
+                  BorderRadius.circular(15.0), // Adjust the radius as needed
+              child: CardProfile(
+                type: 'logo',
+                widget: 'logo',
+                title: 'Elavarasan | Main',
+                url: DataValues.devURL,
+              ),
+            )
           ],
         ),
       ),

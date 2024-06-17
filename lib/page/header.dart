@@ -69,9 +69,12 @@ class Header extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Image.asset(
-              'assets/images/logo.png',
-              height: 120.0,
+            ClipRRect(
+              borderRadius: BorderRadius.circular(30.0),
+              child: Image.asset(
+                'assets/images/logo.png',
+                height: 120.0,
+              ),
             ),
             const SizedBox(height: 5.0),
             SelectableText(
@@ -90,7 +93,7 @@ class Header extends StatelessWidget {
               child: SelectableText(
                 textAlign: TextAlign.center,
                 DataValues.appDescriptionLong,
-                style: AppThemeData.themeData.textTheme.bodyText1,
+                style: AppThemeData.themeData.textTheme.bodyMedium,
               ),
             ),
             const SizedBox(height: 40.0),

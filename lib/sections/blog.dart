@@ -43,12 +43,6 @@ class Blog extends StatelessWidget {
               title: 'Dev Community',
               url: DataValues.devCommunityURL,
             ),
-            // CardProfile(
-            //   type: 'blog',
-            //   widget: 'blogger',
-            //   title: 'Blogger',
-            //   url: DataValues.bloggerURL,
-            // ),
           ],
         ),
       ),

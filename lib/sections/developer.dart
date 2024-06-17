@@ -22,7 +22,7 @@ class Developer extends StatelessWidget {
             const TextSectionHead(
               title: 'Developer',
               subtitle:
-                  'The majority of tech professionals use these platforms to showcase their work. You might also find me here.',
+                  'Most tech professionals showcase their work on these platforms. You might find me here too.',
             ),
             const SizedBox(height: 20.0),
             CardProfile(
@@ -37,12 +37,7 @@ class Developer extends StatelessWidget {
               title: 'Microsoft Learn Profile',
               url: DataValues.microsoftLearnUrl,
             ),
-            // CardProfile(
-            //   type: 'developer',
-            //   widget: 'mlsa',
-            //   title: 'Microsoft Learn Student Ambassadors',
-            //   url: DataValues.mlsaUrl,
-            // ),
+
             CardProfile(
               type: 'devops',
               widget: 'github',
